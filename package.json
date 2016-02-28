@@ -1,0 +1,18 @@
+{
+  "title": "ag_dependency",
+  "version": "0.0.0",
+  "description": "Generate dependency report",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PhillipRC/ag-dependency.git"
+  },
+  "author": "Phillip R. Cargo <phillip.r.cargo@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PhillipRC/ag-dependency/issues"
+  }
+}
