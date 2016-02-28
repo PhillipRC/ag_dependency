@@ -28,7 +28,7 @@ Prerequisites: [node.js](https://nodejs.org/en/), [requirejs](http://requirejs.o
 
 **index.html**
 
-* graphic report
+* [graphic report](http://bl.ocks.org/PhillipRC/raw/cbbcf6ff5b3efcee06fe/)
 
 **console**
 
