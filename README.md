@@ -9,7 +9,7 @@ Prerequisites: [node.js](https://nodejs.org/en/), [requirejs](http://requirejs.o
 * ag source code
   * git clone https://github.com/GSA/CAP-ACQUISITION_GATEWAY.git
 * ag_dependence code
-  * git clone https://github.com/PhillipRC/ag_dependence.git
+  * git clone https://github.com/PhillipRC/ag_dependency.git
 
 ## Execution
 
@@ -20,11 +20,11 @@ Prerequisites: [node.js](https://nodejs.org/en/), [requirejs](http://requirejs.o
 
 **dependence.json**
 
-* [raw report data](https://github.com/PhillipRC/ag_dependence/blob/master/dependenceReport.json)
+* [raw report data](https://github.com/PhillipRC/ag_dependency/blob/master/dependenceReport.json)
 
 **report.md**
 
-* [text report](https://github.com/PhillipRC/ag_dependence/blob/master/report.md)
+* [text report](https://github.com/PhillipRC/ag_dependency/blob/master/report.md)
 
 **index.html**
 
