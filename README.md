@@ -33,7 +33,7 @@ Prerequisites: [node.js](https://nodejs.org/en/), [requirejs](http://requirejs.o
 **console**
 
     node app.js /var/www/hallways/hallways/
-    ag_dependence
+    ag_dependency
     Directives - Loading
     Features - Loading
     Features - Done Loading: Found 9
