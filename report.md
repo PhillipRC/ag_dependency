@@ -58,9 +58,9 @@ This is a display of the results from the file analysis done by ag_dependency.
     * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/communities/communities-widget.html
   * agMyGroups
     * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/communities/communities-widget.html
-  * agUserSearch
-    * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/communities/communities-widget.html
   * agUserProfile
+    * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/communities/communities-widget.html
+  * agUserSearch
     * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/communities/communities-widget.html
 
 * **feeds** - /var/www/hallways/hallways//ag-app/app/scripts/features/feeds
@@ -106,29 +106,6 @@ This is a display of the results from the file analysis done by ag_dependency.
 * **news** - /var/www/hallways/hallways//ag-app/app/scripts/features/news
 * **project-center** - /var/www/hallways/hallways//ag-app/app/scripts/features/project-center
 
-  * agCollection
-    * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/sowl/document.html
-    * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/project-center/events/my-events-entry.html
-    * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/project-center/events/my-events-entry.html
-    * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/project-center/events/my-events-entry.html
-    * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/project-center/events/my-events-entry.html
-    * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/project-center/events/my-events-entry.html
-    * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/project-center/events/my-events-entry.html
-    * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/project-center/events/my-events-entry.html
-    * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/project-center/events/my-events-entry.html
-  * agDisableInput
-    * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/project-center/events/my-events-entry.html
-    * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/project-center/events/my-events-entry.html
-  * agCollection
-    * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/sowl/document.html
-    * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/project-center/events/my-events-entry.html
-    * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/project-center/events/my-events-entry.html
-    * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/project-center/events/my-events-entry.html
-    * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/project-center/events/my-events-entry.html
-    * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/project-center/events/my-events-entry.html
-    * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/project-center/events/my-events-entry.html
-    * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/project-center/events/my-events-entry.html
-    * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/project-center/events/my-events-entry.html
   * agAccordionContainer
     * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/gateways/gatewayHallways.html
     * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/project-center/events/my-events-entry.html
@@ -146,6 +123,29 @@ This is a display of the results from the file analysis done by ag_dependency.
     * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/project-center/events/my-events-entry.html
   * agAccordionBody
     * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/gateways/gatewayHallways.html
+    * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/project-center/events/my-events-entry.html
+    * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/project-center/events/my-events-entry.html
+  * agCollection
+    * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/sowl/document.html
+    * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/project-center/events/my-events-entry.html
+    * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/project-center/events/my-events-entry.html
+    * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/project-center/events/my-events-entry.html
+    * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/project-center/events/my-events-entry.html
+    * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/project-center/events/my-events-entry.html
+    * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/project-center/events/my-events-entry.html
+    * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/project-center/events/my-events-entry.html
+    * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/project-center/events/my-events-entry.html
+  * agCollection
+    * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/sowl/document.html
+    * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/project-center/events/my-events-entry.html
+    * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/project-center/events/my-events-entry.html
+    * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/project-center/events/my-events-entry.html
+    * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/project-center/events/my-events-entry.html
+    * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/project-center/events/my-events-entry.html
+    * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/project-center/events/my-events-entry.html
+    * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/project-center/events/my-events-entry.html
+    * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/project-center/events/my-events-entry.html
+  * agDisableInput
     * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/project-center/events/my-events-entry.html
     * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/project-center/events/my-events-entry.html
   * agCollection
@@ -195,16 +195,6 @@ This is a display of the results from the file analysis done by ag_dependency.
     * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/project-center/events/my-events-entry.html
     * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/project-center/events/my-events-entry.html
     * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/project-center/events/my-events-entry.html
-  * agCollection
-    * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/sowl/document.html
-    * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/project-center/events/my-events-entry.html
-    * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/project-center/events/my-events-entry.html
-    * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/project-center/events/my-events-entry.html
-    * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/project-center/events/my-events-entry.html
-    * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/project-center/events/my-events-entry.html
-    * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/project-center/events/my-events-entry.html
-    * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/project-center/events/my-events-entry.html
-    * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/project-center/events/my-events-entry.html
   * agAccordionContainer
     * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/gateways/gatewayHallways.html
     * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/project-center/events/my-events-entry.html
@@ -222,6 +212,16 @@ This is a display of the results from the file analysis done by ag_dependency.
     * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/project-center/events/my-events-entry.html
   * agAccordionBody
     * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/gateways/gatewayHallways.html
+    * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/project-center/events/my-events-entry.html
+    * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/project-center/events/my-events-entry.html
+  * agCollection
+    * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/sowl/document.html
+    * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/project-center/events/my-events-entry.html
+    * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/project-center/events/my-events-entry.html
+    * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/project-center/events/my-events-entry.html
+    * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/project-center/events/my-events-entry.html
+    * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/project-center/events/my-events-entry.html
+    * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/project-center/events/my-events-entry.html
     * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/project-center/events/my-events-entry.html
     * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/project-center/events/my-events-entry.html
   * agCollection
@@ -270,12 +270,12 @@ This is a display of the results from the file analysis done by ag_dependency.
   * agAccordionSelect
     * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/solutions-finder/contract.modal.html
     * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/sowl/document.html
-  * agAppliedFilters
-    * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/solutions-finder/contract.modal.html
   * agAsScrollable
     * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/communities/communities-widget.html
     * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/solutions-finder/contract.modal.html
     * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/sowl/document.html
+  * agAppliedFilters
+    * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/solutions-finder/contract.modal.html
   * agHelp
     * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/communities/communities-widget.html
     * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/solutions-finder/contract.modal.html
@@ -283,8 +283,26 @@ This is a display of the results from the file analysis done by ag_dependency.
 
 * **sowl** - /var/www/hallways/hallways//ag-app/app/scripts/features/sowl
 
-  * agComments
+  * agLoader
+    * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/communities/communities-widget.html
+    * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/communities/communities-widget.html
+    * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/sowl/document.html
+    * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/sowl/document.html
+    * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/sowl/document.html
+  * agPagination
+    * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/solutions-finder/contract.modal.html
+    * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/sowl/document.html
+  * agShare
+    * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/solutions-finder/contract.modal.html
+    * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/sowl/document.html
+    * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/sowl/document.html
+  * agSort
+    * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/solutions-finder/contract.modal.html
+    * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/sowl/document.html
+  * agVoteUpDown
     * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/hallways/article-page.html
+    * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/solutions-finder/contract.modal.html
+    * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/sowl/document.html
     * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/sowl/document.html
   * agCollection
     * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/sowl/document.html
@@ -296,6 +314,9 @@ This is a display of the results from the file analysis done by ag_dependency.
     * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/project-center/events/my-events-entry.html
     * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/project-center/events/my-events-entry.html
     * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/project-center/events/my-events-entry.html
+  * agComments
+    * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/hallways/article-page.html
+    * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/sowl/document.html
   * agLoader
     * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/communities/communities-widget.html
     * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/communities/communities-widget.html
@@ -319,21 +340,6 @@ This is a display of the results from the file analysis done by ag_dependency.
     * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/sowl/document.html
     * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/sowl/document.html
     * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/sowl/document.html
-  * agPagination
-    * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/solutions-finder/contract.modal.html
-    * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/sowl/document.html
-  * agShare
-    * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/solutions-finder/contract.modal.html
-    * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/sowl/document.html
-    * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/sowl/document.html
-  * agSort
-    * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/solutions-finder/contract.modal.html
-    * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/sowl/document.html
-  * agVoteUpDown
-    * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/hallways/article-page.html
-    * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/solutions-finder/contract.modal.html
-    * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/sowl/document.html
-    * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/sowl/document.html
   * agAccordion
     * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/gateways/gatewayHallways.html
     * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/communities/communities-widget.html
@@ -347,12 +353,6 @@ This is a display of the results from the file analysis done by ag_dependency.
   * agAsScrollable
     * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/communities/communities-widget.html
     * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/solutions-finder/contract.modal.html
-    * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/sowl/document.html
-  * agLoader
-    * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/communities/communities-widget.html
-    * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/communities/communities-widget.html
-    * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/sowl/document.html
-    * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/sowl/document.html
     * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/sowl/document.html
   * agFileUpload
     * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/sowl/document.html
@@ -387,15 +387,12 @@ This is a display of the results from the file analysis done by ag_dependency.
   * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/solutions-finder/contract.modal.html
   * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/sowl/document.html
 * **agAccordionSelectResizable** - /var/www/hallways/hallways//ag-app/app/scripts/components/directives/agAccordionSelectResizable
-* **agAppliedFilters** - /var/www/hallways/hallways//ag-app/app/scripts/components/directives/agAppliedFilters
-  * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/solutions-finder/contract.modal.html
 * **agAsScrollable** - /var/www/hallways/hallways//ag-app/app/scripts/components/directives/agAsScrollable
   * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/communities/communities-widget.html
   * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/solutions-finder/contract.modal.html
   * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/sowl/document.html
-* **agComments** - /var/www/hallways/hallways//ag-app/app/scripts/components/directives/agComments
-  * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/hallways/article-page.html
-  * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/sowl/document.html
+* **agAppliedFilters** - /var/www/hallways/hallways//ag-app/app/scripts/components/directives/agAppliedFilters
+  * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/solutions-finder/contract.modal.html
 * **agBanner** - /var/www/hallways/hallways//ag-app/app/scripts/components/directives/agBanner
 * **agCollection** - /var/www/hallways/hallways//ag-app/app/scripts/components/directives/agCollection
   * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/sowl/document.html
@@ -407,6 +404,9 @@ This is a display of the results from the file analysis done by ag_dependency.
   * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/project-center/events/my-events-entry.html
   * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/project-center/events/my-events-entry.html
   * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/project-center/events/my-events-entry.html
+* **agComments** - /var/www/hallways/hallways//ag-app/app/scripts/components/directives/agComments
+  * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/hallways/article-page.html
+  * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/sowl/document.html
 * **agConfirmation** - /var/www/hallways/hallways//ag-app/app/scripts/components/directives/agConfirmation
   * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/project-center/events/my-events-entry.html
 * **agCreateProject** - /var/www/hallways/hallways//ag-app/app/scripts/components/directives/agCreateProject
@@ -423,13 +423,13 @@ This is a display of the results from the file analysis done by ag_dependency.
   * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/communities/communities-widget.html
   * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/hallways/article-page.html
 * **agFooter** - /var/www/hallways/hallways//ag-app/app/scripts/components/directives/agFooter
+* **agGroupsList** - /var/www/hallways/hallways//ag-app/app/scripts/components/directives/agGroupsList
+  * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/communities/communities-widget.html
+  * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/communities/communities-widget.html
 * **agHelp** - /var/www/hallways/hallways//ag-app/app/scripts/components/directives/agHelp
   * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/communities/communities-widget.html
   * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/solutions-finder/contract.modal.html
   * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/solutions-finder/contract.modal.html
-* **agGroupsList** - /var/www/hallways/hallways//ag-app/app/scripts/components/directives/agGroupsList
-  * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/communities/communities-widget.html
-  * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/communities/communities-widget.html
 * **agInputFile** - /var/www/hallways/hallways//ag-app/app/scripts/components/directives/agInputFile
   * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/project-center/events/my-events-entry.html
 * **agLoader** - /var/www/hallways/hallways//ag-app/app/scripts/components/directives/agLoader
@@ -445,14 +445,14 @@ This is a display of the results from the file analysis done by ag_dependency.
 * **agNavigation** - /var/www/hallways/hallways//ag-app/app/scripts/components/directives/agNavigation
 * **agPdf** - /var/www/hallways/hallways//ag-app/app/scripts/components/directives/agPdf
   * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/sowl/document.html
+* **agPin** - /var/www/hallways/hallways//ag-app/app/scripts/components/directives/agPin
+  * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/solutions-finder/contract.modal.html
 * **agPagination** - /var/www/hallways/hallways//ag-app/app/scripts/components/directives/agPagination
   * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/solutions-finder/contract.modal.html
   * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/sowl/document.html
-* **agPin** - /var/www/hallways/hallways//ag-app/app/scripts/components/directives/agPin
-  * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/solutions-finder/contract.modal.html
+* **agProjectList** - /var/www/hallways/hallways//ag-app/app/scripts/components/directives/agProjectList
 * **agResourcesBlock** - /var/www/hallways/hallways//ag-app/app/scripts/components/directives/agResourcesBlock
   * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/gateways/gatewayHallways.html
-* **agProjectList** - /var/www/hallways/hallways//ag-app/app/scripts/components/directives/agProjectList
 * **agRichText** - /var/www/hallways/hallways//ag-app/app/scripts/components/directives/agRichText
   * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/communities/communities-widget.html
 * **agSearch** - /var/www/hallways/hallways//ag-app/app/scripts/components/directives/agSearch
@@ -468,9 +468,9 @@ This is a display of the results from the file analysis done by ag_dependency.
 * **agTopicsList** - /var/www/hallways/hallways//ag-app/app/scripts/components/directives/agTopicsList
   * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/communities/communities-widget.html
   * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/communities/communities-widget.html
-* **agUserSearch** - /var/www/hallways/hallways//ag-app/app/scripts/components/directives/agUserSearch
-  * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/communities/communities-widget.html
 * **agUserProfile** - /var/www/hallways/hallways//ag-app/app/scripts/components/directives/agUserProfile
+  * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/communities/communities-widget.html
+* **agUserSearch** - /var/www/hallways/hallways//ag-app/app/scripts/components/directives/agUserSearch
   * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/communities/communities-widget.html
 * **agVoteUpDown** - /var/www/hallways/hallways//ag-app/app/scripts/components/directives/agVoteUpDown
   * reference: /var/www/hallways/hallways//ag-app/app/scripts/features/hallways/article-page.html

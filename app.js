@@ -27,7 +27,7 @@ if (process.argv.length <= 2) {
 
 // hallways (hopefully) app path
 var appPath = process.argv[2];
-var reportDataDestination = './dependenceReport.json';
+var reportDataDestination = './dependencyReport.json';
 var reportMDDestination = './report.md';
 
 // generate report data
