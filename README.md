@@ -18,9 +18,9 @@ Prerequisites: [node.js](https://nodejs.org/en/), [requirejs](http://requirejs.o
 
 ## Output
 
-**dependence.json**
+**dependencyReport.json**
 
-* [raw report data](https://github.com/PhillipRC/ag_dependency/blob/master/dependenceReport.json)
+* [raw report data](https://github.com/PhillipRC/ag_dependency/blob/master/dependencyReport.json)
 
 **report.md**
 
