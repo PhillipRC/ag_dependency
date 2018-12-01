@@ -32,13 +32,15 @@ Prerequisites: [node.js](https://nodejs.org/en/), [requirejs](http://requirejs.o
 
 **console**
 
-    node app.js /var/www/hallways/hallways/
+    node app.js ../ag/app/CAP-ACQUISITION_GATEWAY/hallways
     ag_dependency
+    =============
     Directives - Loading
     Features - Loading
-    Features - Done Loading: Found 9
-    Directives - Done Loading: Found 44
+    Features - Done Loading: Found 25
+    Directives - Done Loading: Found 80
     Features - Dependents - Loading
     Features - Dependents - Done Loading
-    Report Data - Saved: ./dependenceReport.json
+    Report Data - Saved: ./dependencyReport.json
     Report - Mark Down Saved: ./report.md
+

@@ -95,6 +95,11 @@ method.setDependents = function (directives, returnHandler) {
 
     }
 
+    // if there are no html files
+    if (reportEntities[id].htmlFileList.length === 0) {
+      returnHandler({id: id});
+    }
+
 
   };
 
