@@ -20,7 +20,8 @@ method.generateMarkDown = function () {
   var entityTypes =
     [
       {type: 'feature', displayName: 'Features'},
-      {type: 'directive', displayName: 'Directives'}
+      {type: 'directive', displayName: 'Directives'},
+      {type: 'feature-directives', displayName: 'Feature Directives'}
     ];
 
   // recursively report on dependents

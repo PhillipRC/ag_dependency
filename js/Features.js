@@ -15,7 +15,7 @@ function Features(appPath) {
     file: '.html'
   };
 
-  // reference to file utlities
+  // reference to file utilities
   this.fileUtilities = new FileUtilities();
 
   // list of features
@@ -71,8 +71,6 @@ method.setDependents = function (directives, returnHandler) {
 
         // loop over directives
         for (var directivesIdx = 0; directivesIdx < directives.reportEntities.length; directivesIdx++) {
-
-
 
           var reAttribute = RegExp(directives.reportEntities[directivesIdx].getAsTagAttribute());
           var directivesFound = fileContents.match(reAttribute);

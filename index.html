@@ -5,7 +5,11 @@
 
   .node {
     font: 300 12px "Helvetica Neue", Helvetica, Arial, sans-serif;
-    fill: #999;
+    fill: rgba(115,115,115,1);
+  }
+
+  .node.feature-directive {
+      fill: rgba(115,115,115,.5);
   }
 
   .node:hover {
@@ -13,8 +17,7 @@
   }
 
   .link {
-    stroke: #46899b;
-    stroke-opacity: .4;
+    stroke: rgba(115,115,115,.1);
     fill: none;
     pointer-events: none;
   }
@@ -23,6 +26,7 @@
   .node--source,
   .node--target {
     font-weight: 700;
+      font-size: 15px;
   }
 
   .node--source {
@@ -30,7 +34,7 @@
   }
 
   .node--target {
-    fill: #df8538;
+    fill: rgba(186,90,28,1);
   }
 
   .link--source,
@@ -40,11 +44,12 @@
   }
 
   .link--source {
-    stroke: #df8538;
+    stroke: rgba(186,90,28,.3);
   }
 
   .link--target {
     stroke: #38923e;
+    stroke-opacity: .4;
   }
 
 </style>
@@ -52,9 +57,9 @@
 <script src="https://d3js.org/d3.v3.min.js"></script>
 <script>
 
-  var diameter = 800,
+  var diameter = 1200,
     radius = diameter / 2,
-    innerRadius = radius - 150;
+    innerRadius = radius - 250;
 
   var cluster = d3.layout.cluster()
     .size([360, innerRadius])
@@ -105,6 +110,11 @@
       }))
       .enter().append("text")
       .attr("class", "node")
+    .classed('directive', function(d) {return ((d.type === 'directive') ? true : false)})
+    .classed('feature', function(d) {return ((d.type === 'feature') ? true : false)})
+    .classed('feature-directive', function(d) {return ((d.type === 'feature-directive') ? true : false)})
+
+
       .attr("dy", ".31em")
       .attr("transform", function (d) {
         return "rotate(" + (d.x - 90) + ")translate(" + (d.y + 8) + ",0)" + (d.x < 180 ? "" : "rotate(180)");

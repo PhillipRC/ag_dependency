@@ -21,16 +21,31 @@ String.prototype.toDash = function () {
   });
 };
 
-function Directive(name, path) {
+/**
+ *
+ * @param {string} name - Directive name
+ * @param {string} path - Path to file
+ * @param {string=} feature - Associated feature
+ * @constructor
+ */
+function Directive(name, path, feature) {
 
   // entity type
   this.type = 'directive';
 
-  // name prefixed with entity type
+  // name
   this.nameFull;
 
+  // feature
+  this.feature = ((feature != undefined) ?  feature : '');
+
   // title
-  this.nameDisplay = name;
+  if( this.feature !== '') {
+    this.nameDisplay = this.feature + ' ' + name;
+    this.type = 'feature-directive';
+  } else {
+    this.nameDisplay = name;
+  }
 
   // path to entity
   this.path = path;
