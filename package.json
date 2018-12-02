@@ -1,18 +1,21 @@
 {
-  "title": "ag_dependency",
-  "version": "0.0.0",
-  "description": "Generate dependency report",
+  "name": "ag_dependency",
+  "version": "0.0.1",
+  "description": "Generates a report and aggregate data detailing entity dependencies. AG source code is analyzed to generate the results.",
   "main": "app.js",
+  "files": [
+    "js"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/PhillipRC/ag-dependency.git"
+    "url": "git+https://github.com/PhillipRC/ag_dependency.git"
   },
-  "author": "Phillip R. Cargo <phillip.r.cargo@gmail.com>",
-  "license": "MIT",
+  "license": "BSD-2-Clause"
   "bugs": {
-    "url": "https://github.com/PhillipRC/ag-dependency/issues"
-  }
+    "url": "https://github.com/PhillipRC/ag_dependency/issues"
+  },
+  "homepage": "https://github.com/PhillipRC/ag_dependency#readme"
 }
