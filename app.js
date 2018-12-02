@@ -65,8 +65,8 @@ var loadFeatureDependents = function () {
   loadingDependentsQueue.add();
   features.setDependents(directives, function() {loadingDependentsQueue.remove();});
 
-  // loadingDependentsQueue.add();
-  // features.setDependents(featureDirectives, function() {loadingDependentsQueue.remove();});
+  loadingDependentsQueue.add();
+  features.setDependents(featureDirectives, function() {loadingDependentsQueue.remove();});
 
 };
 

@@ -22,11 +22,20 @@ function FeatureDirectives(appPath) {
   // list of feature directives
   this.list = [];
 
-  // list of feature associated with directive
-  this.featureList = [];
-
   // array of FeatureDirective objects
   this.reportEntities = [];
+
+  // file list for feature
+  this.fileList = [];
+
+  // files that may contain directives
+  this.htmlFileList = [];
+
+  // directives used in feature
+  this.childFeatures = [];
+
+  // list of feature associated with directive
+  this.featureList = [];
 
 }
 

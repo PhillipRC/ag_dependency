@@ -117,8 +117,10 @@ method.setDependents = function (directives, returnHandler) {
     // pair down results to def.file type
     var walkReturn = [];
     for (walkIdx = 0; walkIdx < results.length; walkIdx++)
-      if (results[walkIdx].indexOf(def.file) != -1)
+      if (results[walkIdx].indexOf(def.file) != -1) {
         walkReturn.push(results[walkIdx]);
+      }
+
 
     // save the list
     reportEntities[returnParams.id].htmlFileList = walkReturn;

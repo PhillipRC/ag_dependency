@@ -31,7 +31,7 @@ String.prototype.toDash = function () {
 function Directive(name, path, feature) {
 
   // entity type
-  this.type = 'directive';
+  this.type = ((feature != undefined) ?  'feature-directive' : 'directive');;
 
   // name
   this.nameFull;
@@ -40,12 +40,7 @@ function Directive(name, path, feature) {
   this.feature = ((feature != undefined) ?  feature : '');
 
   // title
-  if( this.feature !== '') {
-    this.nameDisplay = this.feature + ' ' + name;
-    this.type = 'feature-directive';
-  } else {
-    this.nameDisplay = name;
-  }
+  this.nameDisplay = name;
 
   // path to entity
   this.path = path;
