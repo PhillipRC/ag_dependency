@@ -35,8 +35,8 @@ var saveReportData = function () {
   var reportData = [];
   reportData.push.apply(reportData, features.reportEntities);
   reportData.push.apply(reportData, directives.reportEntities);
-  reportData.push.apply(reportData, featureDirectives.reportEntities);
   reportData.push.apply(reportData, components.reportEntities);
+  reportData.push.apply(reportData, featureDirectives.reportEntities);
   reportData.push.apply(reportData, featureComponents.reportEntities);
 
   // write out the file

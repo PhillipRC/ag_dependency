@@ -14,12 +14,22 @@
         fill-opacity: 1;
     }
 
+    .node.feature-component {
+        fill: rgb(186, 130, 93);
+        fill-opacity: 1;
+    }
+
     .node.feature {
         fill: #639166;
         fill-opacity: 1;
     }
 
     .node.directive {
+        fill: #668891;
+        fill-opacity: 1;
+    }
+
+    .node.component {
         fill: #668891;
         fill-opacity: 1;
     }
@@ -129,6 +139,13 @@
     })
     .classed('feature-directive', function (d) {
       return ((d.type === 'feature-directive') ? true : false)
+    })
+    .classed('component', function (d) {
+      console.log(d.type);
+      return ((d.type === 'component') ? true : false)
+    })
+    .classed('feature-component', function (d) {
+      return ((d.type === 'feature-component') ? true : false)
     })
 
 

@@ -11,6 +11,7 @@ function Directives(appPath, type) {
   var types = {
 
     'directives': {
+      type: 'directive',
       path: appPath + '/ag-app/app/scripts/components/directives',
       file: '.js',
       feature: false,
@@ -18,6 +19,7 @@ function Directives(appPath, type) {
     },
 
     'feature-directives': {
+      type: 'feature-directive',
       path: appPath + '/ag-app/app/scripts/features',
       file: '.js',
       feature: true,
@@ -25,6 +27,7 @@ function Directives(appPath, type) {
     },
 
     'components': {
+      type: 'component',
       path: appPath + '/ag-app/app/scripts/components/directives',
       file: '.js',
       feature: false,
@@ -32,6 +35,7 @@ function Directives(appPath, type) {
     },
 
     'feature-components': {
+      type: 'feature-component',
       path: appPath + '/ag-app/app/scripts/features',
       file: '.js',
       feature: true,
@@ -128,7 +132,7 @@ method.loadReportEntities = function (returnHandler) {
               }
 
 
-              var directive = new Directive(list[idx], (pathList[idx]), featureName);
+              var directive = new Directive(list[idx], (pathList[idx]), def.type, featureName);
               reportEntities.push(directive);
             }
 

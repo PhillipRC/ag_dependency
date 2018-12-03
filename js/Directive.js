@@ -28,10 +28,10 @@ String.prototype.toDash = function () {
  * @param {string=} feature - Associated feature
  * @constructor
  */
-function Directive(name, path, feature) {
+function Directive(name, path, type, feature) {
 
   // entity type
-  this.type = ((feature != undefined) ?  'feature-directive' : 'directive');;
+  this.type = type;
 
   // name
   this.nameFull;
