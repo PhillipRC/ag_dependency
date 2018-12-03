@@ -37,11 +37,14 @@ Prerequisites: [node.js](https://nodejs.org/en/), [requirejs](http://requirejs.o
     ============= Load Entities
     Features: 25
     Directives: 88
-    Feature Directives: 29
+    Directives: 1
+    Directives: 5
+    Directives: 29
     ============= Set Dependents
     Features - Dependents - Loading
     Features - Dependents - Done Loading
     Report Data - Saved: ./dependencyReport.json
     Report - Mark Down Saved: ./report.md
+
 
 
