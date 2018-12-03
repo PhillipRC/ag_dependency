@@ -27,7 +27,7 @@ function Features(appPath) {
 }
 
 // load list of features
-method.loadList = function (returnHandler) {
+method.loadReportEntities = function (returnHandler) {
 
   var list = this.list;
   var def = this.def;
@@ -41,6 +41,8 @@ method.loadList = function (returnHandler) {
   // build report entities
   for (var idx = 0; idx < list.length; idx++)
     this.reportEntities.push(new Feature(list[idx], (def.path + '/' + list[idx])));
+
+  console.log('Features: ' + this.reportEntities.length);
 
   // call return handler
   returnHandler();
