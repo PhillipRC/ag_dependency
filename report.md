@@ -6,14 +6,16 @@ This is a display of the results from the file analysis done by ag_dependency.
 
   * chokePointLock
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/training_discussion_feeds/_events.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/article-details.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/article-details.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/additional-resources/template/app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
@@ -22,12 +24,17 @@ This is a display of the results from the file analysis done by ag_dependency.
 * **app-builder** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder
 
   * agLoader
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/gateways/gateway-projects.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
@@ -41,24 +48,25 @@ This is a display of the results from the file analysis done by ag_dependency.
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
@@ -71,19 +79,24 @@ This is a display of the results from the file analysis done by ag_dependency.
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
   * agLoader
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/gateways/gateway-projects.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
@@ -97,24 +110,25 @@ This is a display of the results from the file analysis done by ag_dependency.
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
@@ -129,12 +143,17 @@ This is a display of the results from the file analysis done by ag_dependency.
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
   * agLoader
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/gateways/gateway-projects.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
@@ -148,35 +167,41 @@ This is a display of the results from the file analysis done by ag_dependency.
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
   * agLoader
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/gateways/gateway-projects.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
@@ -190,24 +215,25 @@ This is a display of the results from the file analysis done by ag_dependency.
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
@@ -225,11 +251,41 @@ This is a display of the results from the file analysis done by ag_dependency.
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * agError404
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-error-404/global-error-404.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/news/news-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/applet/applet-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/applet/applet-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
   * agAppLinks
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/applet/applet-form.html
@@ -240,62 +296,261 @@ This is a display of the results from the file analysis done by ag_dependency.
   * agError404
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-error-404/global-error-404.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/news/news-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/notifications.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/article-details.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/applet/applet-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/applet/applet-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-  * agError404
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-error-404/global-error-404.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/news/news-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/notifications.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/article-details.html
+
+
+* **arrte** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte
+
+  * agFocusOnEnter
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+  * agHelp
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/applet/applet-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/applet/applet-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+  * agLoader
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/gateways/gateway-projects.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * agTags
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/feeds/event-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * agTags
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/feeds/event-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * agTags
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/feeds/event-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * agLoader
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/gateways/gateway-projects.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * agModalFocusMe
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+  * agAppNavbar
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+  * agMessage
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * agFocusOnEnter
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+  * chokePointLock
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/training_discussion_feeds/_events.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/additional-resources/template/app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
 
 
 * **common** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/common
-* **communities** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities
 * **communities-squared** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared
 
   * agError404
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-error-404/global-error-404.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/news/news-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/notifications.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/article-details.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/applet/applet-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/applet/applet-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
@@ -305,12 +560,17 @@ This is a display of the results from the file analysis done by ag_dependency.
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
   * agLoader
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/gateways/gateway-projects.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
@@ -324,24 +584,25 @@ This is a display of the results from the file analysis done by ag_dependency.
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
@@ -350,23 +611,24 @@ This is a display of the results from the file analysis done by ag_dependency.
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
   * agHelp
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/igce-addedit.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
   * agRichText
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
@@ -380,25 +642,25 @@ This is a display of the results from the file analysis done by ag_dependency.
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-  * agUserProfile
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/training_discussion_feeds/_events.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
   * agUserProfileImg
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/training_discussion_feeds/_events.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * agUserProfile
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/training_discussion_feeds/_events.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
   * compile
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
@@ -418,9 +680,9 @@ This is a display of the results from the file analysis done by ag_dependency.
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
   * agShare
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/igce-addedit.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
@@ -430,9 +692,10 @@ This is a display of the results from the file analysis done by ag_dependency.
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
   * agTags
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/feeds/event-modal.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
@@ -440,9 +703,10 @@ This is a display of the results from the file analysis done by ag_dependency.
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
   * agTags
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/feeds/event-modal.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
@@ -450,106 +714,47 @@ This is a display of the results from the file analysis done by ag_dependency.
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
   * agTags
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/feeds/event-modal.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-  * agUserProfile
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/training_discussion_feeds/_events.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
   * agUserProfileImg
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/training_discussion_feeds/_events.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
   * agVoteUpDown
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+  * agUserProfile
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/training_discussion_feeds/_events.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
   * agSendInvite
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
   * agUserSearch
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-  * agFileUpload
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/applet/applet-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-  * agLoader
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/notifications.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/gateways/gateway-projects.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-  * compile
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
   * agRichText
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
@@ -560,6 +765,72 @@ This is a display of the results from the file analysis done by ag_dependency.
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
   * agRichTextMentionable
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+  * agFileUpload
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/applet/applet-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * agLoader
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/gateways/gateway-projects.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * compile
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
@@ -577,138 +848,38 @@ This is a display of the results from the file analysis done by ag_dependency.
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-  * agLoader
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/notifications.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/gateways/gateway-projects.html
+  * agError404
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-error-404/global-error-404.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/news/news-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/applet/applet-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/applet/applet-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-  * agMyGroups
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-  * agLoader
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/notifications.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/gateways/gateway-projects.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-  * agMyConnections
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-  * agLoader
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/notifications.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/gateways/gateway-projects.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
@@ -721,34 +892,40 @@ This is a display of the results from the file analysis done by ag_dependency.
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
   * agHelp
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/igce-addedit.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
   * agLoader
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/gateways/gateway-projects.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
@@ -762,24 +939,25 @@ This is a display of the results from the file analysis done by ag_dependency.
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
@@ -787,17 +965,52 @@ This is a display of the results from the file analysis done by ag_dependency.
   * agUserSearch
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+  * agError404
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-error-404/global-error-404.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/news/news-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/applet/applet-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/applet/applet-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
   * agLoader
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/gateways/gateway-projects.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
@@ -811,92 +1024,321 @@ This is a display of the results from the file analysis done by ag_dependency.
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * agError404
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-error-404/global-error-404.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/news/news-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/applet/applet-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/applet/applet-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * agLoader
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/gateways/gateway-projects.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * agMyConnections
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+  * agError404
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-error-404/global-error-404.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/news/news-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/applet/applet-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/applet/applet-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * agLoader
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/gateways/gateway-projects.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * agMyGroups
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+  * agError404
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-error-404/global-error-404.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/news/news-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/applet/applet-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/applet/applet-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * agLoader
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/gateways/gateway-projects.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
   * agMessage
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/igce-addedit.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * agError404
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-error-404/global-error-404.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/news/news-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/applet/applet-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/applet/applet-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-  * agLoader
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/notifications.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/gateways/gateway-projects.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
   * agLoader
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/gateways/gateway-projects.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
@@ -910,51 +1352,100 @@ This is a display of the results from the file analysis done by ag_dependency.
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * agLoader
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/gateways/gateway-projects.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
   * globalSearch
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-  * agUserProfile
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/training_discussion_feeds/_events.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
   * agUserProfileImg
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/training_discussion_feeds/_events.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * agUserProfile
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/training_discussion_feeds/_events.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
   * agFollow
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
@@ -962,148 +1453,41 @@ This is a display of the results from the file analysis done by ag_dependency.
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
   * agUserProfile
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/training_discussion_feeds/_events.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-  * agSendInvite
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-  * agUserProfile
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/training_discussion_feeds/_events.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-  * compile
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-  * agUserProfile
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/training_discussion_feeds/_events.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-  * agUserProfileImg
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/training_discussion_feeds/_events.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-  * agLoader
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/notifications.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/gateways/gateway-projects.html
+  * agError404
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-error-404/global-error-404.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/news/news-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/applet/applet-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/applet/applet-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-  * agHelp
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/igce-addedit.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-  * agLoader
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/notifications.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/gateways/gateway-projects.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
@@ -1116,34 +1500,40 @@ This is a display of the results from the file analysis done by ag_dependency.
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
   * agHelp
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/igce-addedit.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
   * agLoader
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/gateways/gateway-projects.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
@@ -1157,78 +1547,309 @@ This is a display of the results from the file analysis done by ag_dependency.
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-  * agUserProfile
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/training_discussion_feeds/_events.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
   * agUserProfileImg
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/training_discussion_feeds/_events.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * agUserProfile
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/training_discussion_feeds/_events.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * agError404
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-error-404/global-error-404.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/news/news-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/applet/applet-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/applet/applet-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * agHelp
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+  * agLoader
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/gateways/gateway-projects.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * agError404
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-error-404/global-error-404.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/news/news-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/applet/applet-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/applet/applet-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * agLoader
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/gateways/gateway-projects.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * agSendInvite
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+  * agUserProfile
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/training_discussion_feeds/_events.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * compile
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+  * agUserProfileImg
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/training_discussion_feeds/_events.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * agUserProfile
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/training_discussion_feeds/_events.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
 
 
 * **data-visualizer** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer
 
+  * tagsInput
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
+  * autoComplete
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
   * agError404
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-error-404/global-error-404.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/news/news-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/notifications.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/article-details.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/applet/applet-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/applet/applet-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
   * agLoader
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/gateways/gateway-projects.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
@@ -1242,100 +1863,78 @@ This is a display of the results from the file analysis done by ag_dependency.
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-  * agMessage
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/igce-addedit.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-  * agMessageToggle
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/igce-addedit.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
   * agAsScrollable
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
   * agHelp
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/igce-addedit.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
   * agMessage
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/igce-addedit.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
   * agPagination
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/igce-addedit.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
   * agPaginationSolr
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
   * agShare
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/igce-addedit.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
@@ -1347,8 +1946,8 @@ This is a display of the results from the file analysis done by ag_dependency.
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
 
 
 * **doclib** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib
@@ -1361,19 +1960,24 @@ This is a display of the results from the file analysis done by ag_dependency.
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
   * agLoader
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/gateways/gateway-projects.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
@@ -1387,24 +1991,25 @@ This is a display of the results from the file analysis done by ag_dependency.
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
@@ -1418,9 +2023,9 @@ This is a display of the results from the file analysis done by ag_dependency.
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
   * agShare
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/igce-addedit.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
@@ -1430,9 +2035,10 @@ This is a display of the results from the file analysis done by ag_dependency.
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
   * agTags
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/feeds/event-modal.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
@@ -1440,9 +2046,10 @@ This is a display of the results from the file analysis done by ag_dependency.
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
   * agTags
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/feeds/event-modal.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
@@ -1450,41 +2057,45 @@ This is a display of the results from the file analysis done by ag_dependency.
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
   * agTags
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/feeds/event-modal.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-  * agMessage
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/igce-addedit.html
+  * agError404
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-error-404/global-error-404.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/news/news-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/applet/applet-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/applet/applet-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-  * agMessageToggle
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/igce-addedit.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-  * agAsScrollable
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
   * agFileUpload
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/applet/applet-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
@@ -1493,19 +2104,24 @@ This is a display of the results from the file analysis done by ag_dependency.
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
   * agLoader
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/gateways/gateway-projects.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
@@ -1519,72 +2135,99 @@ This is a display of the results from the file analysis done by ag_dependency.
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * agAsScrollable
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+  * chokePointLock
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/training_discussion_feeds/_events.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/additional-resources/template/app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
   * agMessage
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/igce-addedit.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
   * chokePointLock
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/training_discussion_feeds/_events.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/article-details.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/article-details.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/additional-resources/template/app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
   * gc
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/igce-addedit.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/igce-addedit.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/igce-addedit.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
   * agLoader
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/gateways/gateway-projects.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
@@ -1598,43 +2241,45 @@ This is a display of the results from the file analysis done by ag_dependency.
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
   * agPagination
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/igce-addedit.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
   * agPaginationSolr
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
   * agShare
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/igce-addedit.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
@@ -1642,26 +2287,48 @@ This is a display of the results from the file analysis done by ag_dependency.
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-  * chokePointLock
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/training_discussion_feeds/_events.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/article-details.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/article-details.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/additional-resources/template/app.html
+  * agError404
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-error-404/global-error-404.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/news/news-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/applet/applet-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/applet/applet-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
   * agLoader
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/gateways/gateway-projects.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
@@ -1675,24 +2342,25 @@ This is a display of the results from the file analysis done by ag_dependency.
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
@@ -1703,29 +2371,10 @@ This is a display of the results from the file analysis done by ag_dependency.
 
   * agTags
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/feeds/event-modal.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-  * agTags
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/feeds/event-modal.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-  * agTags
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/feeds/event-modal.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
@@ -1737,20 +2386,49 @@ This is a display of the results from the file analysis done by ag_dependency.
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * agTags
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/feeds/event-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * agTags
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/feeds/event-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
 
 
 * **gateways** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/gateways
 
+  * agResourcesBlock
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/gateways/gateway-projects.html
   * agCollection
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/gateways/gateway-projects.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
   * agLoader
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/gateways/gateway-projects.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
@@ -1764,30 +2442,29 @@ This is a display of the results from the file analysis done by ag_dependency.
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-  * agResourcesBlock
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/gateways/gateway-projects.html
 
 
 * **global-error-404** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-error-404
@@ -1795,18 +2472,29 @@ This is a display of the results from the file analysis done by ag_dependency.
   * agError404
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-error-404/global-error-404.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/news/news-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/notifications.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/article-details.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/applet/applet-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/applet/applet-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
@@ -1816,12 +2504,17 @@ This is a display of the results from the file analysis done by ag_dependency.
 * **global-search** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search
 
   * agLoader
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/gateways/gateway-projects.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
@@ -1835,43 +2528,45 @@ This is a display of the results from the file analysis done by ag_dependency.
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
   * agPagination
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/igce-addedit.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
   * agPaginationSolr
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
   * agShare
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/igce-addedit.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
@@ -1881,44 +2576,425 @@ This is a display of the results from the file analysis done by ag_dependency.
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
   * agTags
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/feeds/event-modal.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-  * agTags
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/feeds/event-modal.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-  * agTags
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/feeds/event-modal.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
   * agShouldFocus
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
   * globalSearch
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * agTags
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/feeds/event-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * agTags
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/feeds/event-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
 
 
 * **hallways** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways
 
+  * chokePointLock
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/training_discussion_feeds/_events.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/additional-resources/template/app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * gc
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * agTextEditor
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/feeds/event-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * chokePointLock
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/training_discussion_feeds/_events.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/additional-resources/template/app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * agComments
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * agError404
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-error-404/global-error-404.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/news/news-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/applet/applet-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/applet/applet-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * agRelatedContent
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * agShare
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * agTags
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/feeds/event-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * agTextEditor
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/feeds/event-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * agTags
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/feeds/event-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * agTags
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/feeds/event-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * agTags
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/feeds/event-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * agTags
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/feeds/event-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * agTags
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/feeds/event-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * agLoader
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/gateways/gateway-projects.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * agOverflowText
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * chokePointLock
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/training_discussion_feeds/_events.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/additional-resources/template/app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * gc
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * agCms
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/applet/applet-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * globalSearch
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * agCarousel
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * agMessage
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * agError404
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-error-404/global-error-404.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/news/news-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/applet/applet-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/applet/applet-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * agShare
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * agDraggable
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * agDrop
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * agLoader
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/gateways/gateway-projects.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * agEditResource
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * agFileUpload
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/applet/applet-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
   * agAppLinks
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/applet/applet-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
@@ -1927,18 +3003,29 @@ This is a display of the results from the file analysis done by ag_dependency.
   * agError404
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-error-404/global-error-404.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/news/news-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/notifications.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/article-details.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/applet/applet-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/applet/applet-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
@@ -1948,12 +3035,17 @@ This is a display of the results from the file analysis done by ag_dependency.
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
   * agLoader
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/gateways/gateway-projects.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
@@ -1967,24 +3059,25 @@ This is a display of the results from the file analysis done by ag_dependency.
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
@@ -2000,29 +3093,10 @@ This is a display of the results from the file analysis done by ag_dependency.
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
   * agTags
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/feeds/event-modal.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-  * agTags
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/feeds/event-modal.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-  * agTags
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/feeds/event-modal.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
@@ -2034,336 +3108,58 @@ This is a display of the results from the file analysis done by ag_dependency.
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-  * agUserProfile
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/training_discussion_feeds/_events.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+  * agTags
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/feeds/event-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * agTags
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/feeds/event-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
   * agUserProfileImg
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/training_discussion_feeds/_events.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-  * agTextEditor
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/feeds/event-modal.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-  * agComments
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-  * agError404
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-error-404/global-error-404.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/news/news-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/notifications.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/article-details.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/applet/applet-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/applet/applet-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-  * agRelatedContent
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-  * agShare
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/igce-addedit.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-  * chokePointLock
+  * agUserProfile
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/training_discussion_feeds/_events.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/article-details.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/article-details.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/additional-resources/template/app.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-  * agTags
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/feeds/event-modal.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-  * agTags
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/feeds/event-modal.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-  * agTags
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/feeds/event-modal.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-  * agTextEditor
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/feeds/event-modal.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-  * agTags
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/feeds/event-modal.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-  * agTags
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/feeds/event-modal.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-  * agTags
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/feeds/event-modal.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-  * agCarousel
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-  * agLoader
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/notifications.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/gateways/gateway-projects.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-  * agOverflowText
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-  * agCms
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/applet/applet-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-  * globalSearch
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
   * agMessage
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/igce-addedit.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-  * agError404
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-error-404/global-error-404.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/news/news-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/notifications.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/article-details.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/applet/applet-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/applet/applet-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-  * agShare
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/igce-addedit.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-  * chokePointLock
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/training_discussion_feeds/_events.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/article-details.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/article-details.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/additional-resources/template/app.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-  * agDraggable
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-  * agDrop
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-  * chokePointLock
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/training_discussion_feeds/_events.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/article-details.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/article-details.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/additional-resources/template/app.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-  * agLoader
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/notifications.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/gateways/gateway-projects.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-  * agMessage
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/igce-addedit.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
   * agTextEditor
@@ -2375,29 +3171,45 @@ This is a display of the results from the file analysis done by ag_dependency.
   * agError404
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-error-404/global-error-404.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/news/news-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/notifications.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/article-details.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/applet/applet-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/applet/applet-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
   * agLoader
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/gateways/gateway-projects.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
@@ -2411,184 +3223,240 @@ This is a display of the results from the file analysis done by ag_dependency.
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
   * agScrollTop
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-  * agEditResource
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-  * agFileUpload
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/applet/applet-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-  * agLoader
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/notifications.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/gateways/gateway-projects.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
 
 
 * **igce** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce
 
-  * gc
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/igce-addedit.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/igce-addedit.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/igce-addedit.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
   * currency
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/igce-addedit.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/igce-addedit.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+  * agLoader
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/gateways/gateway-projects.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
   * agPagination
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/igce-addedit.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+  * agPaginationSolr
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
   * currency
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/igce-addedit.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/igce-addedit.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-  * gc
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/igce-addedit.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/igce-addedit.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/igce-addedit.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
   * agHelp
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/igce-addedit.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-  * agMessage
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/igce-addedit.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-  * agMessageToggle
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/igce-addedit.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
   * gc
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/igce-addedit.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/igce-addedit.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/igce-addedit.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-  * agShare
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/igce-addedit.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * agMessage
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * chokePointLock
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/training_discussion_feeds/_events.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/additional-resources/template/app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * gc
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * agLoader
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/gateways/gateway-projects.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * agShare
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * gc
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
 
@@ -2596,59 +3464,37 @@ This is a display of the results from the file analysis done by ag_dependency.
 * **json-app** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app
 
   * currency
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/igce-addedit.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/igce-addedit.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
   * agOverflowText
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
   * currency
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/igce-addedit.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/igce-addedit.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-  * currency
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/igce-addedit.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/igce-addedit.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
   * decimalValidator
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
+  * currency
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
   * isInputUrl
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-  * agAccordion
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
   * agAccordionSelect
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-  * agMessage
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/igce-addedit.html
+  * agAccordion
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-  * agMessageToggle
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/igce-addedit.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
   * agAppliedFilters
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
   * agAsScrollable
@@ -2657,46 +3503,44 @@ This is a display of the results from the file analysis done by ag_dependency.
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
   * agHelp
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/igce-addedit.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
   * agMessage
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/igce-addedit.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
   * agPagination
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/igce-addedit.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
   * agShare
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/igce-addedit.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
@@ -2708,37 +3552,55 @@ This is a display of the results from the file analysis done by ag_dependency.
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
   * agAppNavbar
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
   * agError404
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-error-404/global-error-404.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/news/news-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/notifications.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/article-details.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/applet/applet-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/applet/applet-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
   * agLoader
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/gateways/gateway-projects.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
@@ -2752,24 +3614,25 @@ This is a display of the results from the file analysis done by ag_dependency.
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
@@ -2781,18 +3644,29 @@ This is a display of the results from the file analysis done by ag_dependency.
   * agError404
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-error-404/global-error-404.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/news/news-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/notifications.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/article-details.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/applet/applet-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/applet/applet-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
@@ -2804,29 +3678,45 @@ This is a display of the results from the file analysis done by ag_dependency.
   * agError404
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-error-404/global-error-404.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/news/news-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/notifications.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/article-details.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/applet/applet-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/applet/applet-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
   * agLoader
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/gateways/gateway-projects.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
@@ -2840,24 +3730,103 @@ This is a display of the results from the file analysis done by ag_dependency.
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * agError404
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-error-404/global-error-404.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/news/news-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/applet/applet-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/applet/applet-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * agLoader
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/gateways/gateway-projects.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
@@ -2881,20 +3850,21 @@ This is a display of the results from the file analysis done by ag_dependency.
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
   * agHelp
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/igce-addedit.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
   * agTrapFocus
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
@@ -2907,21 +3877,7 @@ This is a display of the results from the file analysis done by ag_dependency.
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
   * agModalFocusMe
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-  * agOverflowText
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-  * agTrapFocus
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
   * agTrapFocus
@@ -2945,27 +3901,33 @@ This is a display of the results from the file analysis done by ag_dependency.
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
   * agHelp
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/igce-addedit.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
   * agLoader
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/gateways/gateway-projects.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
@@ -2979,35 +3941,29 @@ This is a display of the results from the file analysis done by ag_dependency.
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-  * agUserSearch
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
   * agTrapFocus
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
@@ -3020,6 +3976,8 @@ This is a display of the results from the file analysis done by ag_dependency.
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
   * agFocusOnEnter
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
@@ -3037,6 +3995,403 @@ This is a display of the results from the file analysis done by ag_dependency.
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+  * agUserSearch
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+  * agOverflowText
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * agTrapFocus
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+  * agLoader
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/gateways/gateway-projects.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * agTrapFocus
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+  * agFocusOnEnter
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+  * agModalFocusMe
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+  * agConfirmation
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+  * agFileUpload
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/applet/applet-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * agLoader
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/gateways/gateway-projects.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * agError404
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-error-404/global-error-404.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/news/news-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/applet/applet-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/applet/applet-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * excelExport
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+  * agHelp
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+  * agLoader
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/gateways/gateway-projects.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * agError404
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-error-404/global-error-404.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/news/news-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/applet/applet-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/applet/applet-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * agMessage
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * agError404
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-error-404/global-error-404.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/news/news-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/applet/applet-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/applet/applet-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * excelExport
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+  * agHelp
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+  * agLoader
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/gateways/gateway-projects.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * agSort
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
   * agCarousel
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
@@ -3056,416 +4411,87 @@ This is a display of the results from the file analysis done by ag_dependency.
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-  * agLoader
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/notifications.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/gateways/gateway-projects.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-  * agBsButtonCollapse
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-  * agTrapFocus
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-  * agFocusOnEnter
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-  * agModalFocusMe
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-  * agConfirmation
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-  * agFileUpload
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/applet/applet-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-  * agLoader
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/notifications.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/gateways/gateway-projects.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-  * agError404
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-error-404/global-error-404.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/news/news-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/notifications.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/article-details.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/applet/applet-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/applet/applet-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
   * agHelp
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/igce-addedit.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-  * agLoader
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/notifications.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/gateways/gateway-projects.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-  * agTrapFocus
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-  * agFocusOnEnter
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-  * agBsButtonCollapse
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-  * agMessage
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/igce-addedit.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-  * agError404
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-error-404/global-error-404.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/news/news-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/notifications.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/article-details.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/applet/applet-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/applet/applet-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-  * agHelp
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/igce-addedit.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-  * agLoader
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/notifications.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/gateways/gateway-projects.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-  * agSort
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-  * agMessage
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/igce-addedit.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-  * agMessageToggle
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/igce-addedit.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-  * agTrapFocus
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-  * agHelp
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/igce-addedit.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-  * agUserProfile
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/training_discussion_feeds/_events.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
   * agUserProfileImg
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/training_discussion_feeds/_events.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-  * agUserRoleTypeahead
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
   * agUserSearch
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-  * agError404
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-error-404/global-error-404.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/news/news-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/notifications.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/article-details.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/applet/applet-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/applet/applet-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+  * agUserRoleTypeahead
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+  * agUserProfile
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/training_discussion_feeds/_events.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * agTrapFocus
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+  * agFocusOnEnter
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+  * agBsButtonCollapse
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+  * agBsButtonCollapse
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+  * agTrapFocus
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
 
 
 * **promotional-search** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search
@@ -3478,19 +4504,24 @@ This is a display of the results from the file analysis done by ag_dependency.
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
   * agLoader
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/gateways/gateway-projects.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
@@ -3504,24 +4535,25 @@ This is a display of the results from the file analysis done by ag_dependency.
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
@@ -3538,94 +4570,10 @@ This is a display of the results from the file analysis done by ag_dependency.
   * agUserSearch
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-  * agLoader
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/notifications.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/gateways/gateway-projects.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-  * agLoader
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/notifications.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/gateways/gateway-projects.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
   * agFileUpload
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/applet/applet-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
@@ -3634,19 +4582,24 @@ This is a display of the results from the file analysis done by ag_dependency.
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
   * agLoader
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/gateways/gateway-projects.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
@@ -3660,24 +4613,25 @@ This is a display of the results from the file analysis done by ag_dependency.
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
@@ -3694,13 +4648,109 @@ This is a display of the results from the file analysis done by ag_dependency.
   * agUserSearch
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
   * agCarousel
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * agLoader
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/gateways/gateway-projects.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * agLoader
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/gateways/gateway-projects.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
 
 
@@ -3715,29 +4765,45 @@ This is a display of the results from the file analysis done by ag_dependency.
   * agError404
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-error-404/global-error-404.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/news/news-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/notifications.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/article-details.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/applet/applet-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/applet/applet-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
   * agLoader
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/gateways/gateway-projects.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
@@ -3751,24 +4817,25 @@ This is a display of the results from the file analysis done by ag_dependency.
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
@@ -3781,11 +4848,11 @@ This is a display of the results from the file analysis done by ag_dependency.
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
   * agRichText
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
@@ -3798,9 +4865,10 @@ This is a display of the results from the file analysis done by ag_dependency.
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
   * agTags
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/feeds/event-modal.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
@@ -3808,9 +4876,10 @@ This is a display of the results from the file analysis done by ag_dependency.
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
   * agTags
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/feeds/event-modal.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
@@ -3818,9 +4887,10 @@ This is a display of the results from the file analysis done by ag_dependency.
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
   * agTags
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/feeds/event-modal.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
@@ -3832,65 +4902,64 @@ This is a display of the results from the file analysis done by ag_dependency.
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
   * chokePointLock
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/training_discussion_feeds/_events.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/article-details.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/article-details.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/additional-resources/template/app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
   * gc
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/igce-addedit.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/igce-addedit.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/igce-addedit.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
   * agPin
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
   * chokePointLock
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/training_discussion_feeds/_events.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/article-details.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/article-details.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/additional-resources/template/app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
   * gc
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/igce-addedit.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/igce-addedit.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/igce-addedit.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-  * agTags
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/feeds/event-modal.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
   * agTags
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/feeds/event-modal.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
@@ -3898,66 +4967,126 @@ This is a display of the results from the file analysis done by ag_dependency.
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
   * agTags
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/feeds/event-modal.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * agTags
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/feeds/event-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
   * agHelp
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/igce-addedit.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
   * agSmartSelect
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
   * agMessage
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/igce-addedit.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
   * gc
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/igce-addedit.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/igce-addedit.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/igce-addedit.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-  * agPagination
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/igce-addedit.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * agLoader
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/gateways/gateway-projects.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * agPagination
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
   * agShare
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/igce-addedit.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
@@ -3969,29 +5098,7 @@ This is a display of the results from the file analysis done by ag_dependency.
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-  * agMessage
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/igce-addedit.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-  * agMessageToggle
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/igce-addedit.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
   * agAsScrollable
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
@@ -4000,142 +5107,119 @@ This is a display of the results from the file analysis done by ag_dependency.
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
   * chokePointLock
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/training_discussion_feeds/_events.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/article-details.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/article-details.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/additional-resources/template/app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-  * gc
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/igce-addedit.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/igce-addedit.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/igce-addedit.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
   * agHelp
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/igce-addedit.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+  * gc
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
   * agAppNavbar
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
   * agError404
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-error-404/global-error-404.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/news/news-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/notifications.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/article-details.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/applet/applet-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/applet/applet-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-  * agLoader
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/notifications.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/gateways/gateway-projects.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
 
 
-* **tag-search** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tag-search
 * **training_discussion_feeds** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/training_discussion_feeds
 
   * chokePointLock
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/training_discussion_feeds/_events.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/article-details.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/article-details.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/additional-resources/template/app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-  * agUserProfile
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/training_discussion_feeds/_events.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
   * agUserProfileImg
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/training_discussion_feeds/_events.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * agUserProfile
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/training_discussion_feeds/_events.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
 
 
@@ -4143,89 +5227,180 @@ This is a display of the results from the file analysis done by ag_dependency.
 
   * chokePointLock
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/training_discussion_feeds/_events.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/article-details.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/article-details.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/additional-resources/template/app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * agLoader
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/gateways/gateway-projects.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * agMessage
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * agLoader
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/gateways/gateway-projects.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
   * chokePointLock
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/training_discussion_feeds/_events.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/article-details.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/article-details.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/additional-resources/template/app.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-  * agError404
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-error-404/global-error-404.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/news/news-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/notifications.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/article-details.html
+  * agAppNavbar
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/applet/applet-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/applet/applet-form.html
     * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+    * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
 
 
 
 ## Directives
+* **agAccordionSelectScrollToSelected** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/accordion-select/accordion-select-directive.js
+* **agAccordionSelect** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/accordion-select/accordion-select-directive.js
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
+* **agAccordionSelectResizable** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/accordion-select/accordion-select-directive.js
 * **agAccordionContainer** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/accordion/accordion-directive.js
 * **agAccordion** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/accordion/accordion-directive.js
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
 * **agAccordionHeader** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/accordion/accordion-directive.js
 * **agAccordionBody** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/accordion/accordion-directive.js
-* **agAccordionLight** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/accordion-light/accordion-light-directive.js
-* **agAccordionSelectScrollToSelected** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/accordion-select/accordion-select-directive.js
-* **agAccordionSelect** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/accordion-select/accordion-select-directive.js
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-* **agAccordionSelectResizable** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/accordion-select/accordion-select-directive.js
 * **agAddToProject** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/add-to-project/add-to-project-directive.js
 * **agAppNavbar** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/ag-app-navbar/ag-app-navbar-directive.js
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
 * **agMessage** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/ag-message/ag-message-directive.js
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/igce-addedit.html
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-* **agMessageToggle** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/ag-message/ag-message-directive.js
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/igce-addedit.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+* **agAppliedFilters** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/applied-filters/applied-filters-directive.js
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
 * **agTrapFocus** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/ag-trap-focus/ag-trap-focus.js
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
@@ -4238,10 +5413,13 @@ This is a display of the results from the file analysis done by ag_dependency.
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
 * **agFocusOnEnter** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/ag-trap-focus/ag-trap-focus.js
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
 * **agModalFocusMe** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/ag-trap-focus/ag-trap-focus.js
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
 * **agBsButtonCollapse** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/ag-trap-focus/ag-trap-focus.js
@@ -4251,14 +5429,11 @@ This is a display of the results from the file analysis done by ag_dependency.
 * **agAppLinks** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/app-links/app-links-directive.js
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/applet/applet-form.html
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-* **agAppliedFilters** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/applied-filters/applied-filters-directive.js
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
 * **agAsScrollable** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/as-scrollable/as-scrollable-directive.js
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-* **agBanner** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/banner/banner-directive.js
 * **agCarousel** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/carousel/carousel-directive.js
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
@@ -4266,12 +5441,13 @@ This is a display of the results from the file analysis done by ag_dependency.
 * **agCms** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/cms/cms-directive.js
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/applet/applet-form.html
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-* **agCollection** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/collection/collection-directive.js
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/gateways/gateway-projects.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
 * **agComments** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/comments/comments-directive.js
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+* **agBanner** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/banner/banner-directive.js
+* **agCollection** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/collection/collection-directive.js
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/gateways/gateway-projects.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
 * **agCompare** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/compare/compare-directive.js
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
 * **compile** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/compare/compare-directive.js
@@ -4281,59 +5457,57 @@ This is a display of the results from the file analysis done by ag_dependency.
 * **agConfirmation** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/confirmation/confirmation-directive.js
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
 * **agCreateProject** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/create-project/create-project-directive.js
-* **currency** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/currency-input/currency-input-directive.js
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/igce-addedit.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/igce-addedit.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
 * **decimalValidator** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/decimal-validator/decimal-validator-directive.js
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
+* **currency** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/currency-input/currency-input-directive.js
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+* **agDisableInput** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/disable-input/disable-input-directive.js
 * **agDisableChildInputs** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/disable-child-inputs/disable-child-inputs-directive.js
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-* **agDisableInput** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/disable-input/disable-input-directive.js
 * **agDraggable** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/drag-drop/drag-drop-directive.js
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
 * **agDrop** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/drag-drop/drag-drop-directive.js
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-* **agEditAuthor** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/edit-author/edit-author-directive.js
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
 * **agEditResource** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/edit-resource/edit-resource-directive.js
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
 * **agEmbeddedFiles** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/embedded-files/embedded-files-directive.js
 * **agClickToCopy** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/embedded-files/embedded-files-directive.js
+* **agEditAuthor** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/edit-author/edit-author-directive.js
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
 * **agError404** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/error-404/error-404-directive.js
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-error-404/global-error-404.html
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/news/news-page.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/notifications.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/article-details.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/applet/applet-form.html
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/applet/applet-form.html
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-* **chokePointLock** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/federal-content-choke-point/federal-content-choke-point-directive.js
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/training_discussion_feeds/_events.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/article-details.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/article-details.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/additional-resources/template/app.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
@@ -4351,118 +5525,151 @@ This is a display of the results from the file analysis done by ag_dependency.
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+* **excelExport** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/excel-export/excel-export-directive.js
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
 * **agFollow** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/follow/follow-directive.js
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+* **chokePointLock** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/federal-content-choke-point/federal-content-choke-point-directive.js
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/training_discussion_feeds/_events.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/additional-resources/template/app.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
 * **agFooter** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/footer/footer-directive.js
-* **gc** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/gamification-click/gamification-click-directive.js
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/igce-addedit.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/igce-addedit.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/igce-addedit.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-* **agGroupsList** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/groups-list/groups-list-directive.js
 * **agHelp** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/help/help-directive.js
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/igce-addedit.html
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
 * **agImageBrowseUpload** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/image-browse-upload/image-browse-upload-directive.js
-* **agInputFile** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/input-file/input-file-directive.js
-* **agLoader** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/loader/loader-directive.js
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/notifications.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/gateways/gateway-projects.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
+* **gc** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/gamification-click/gamification-click-directive.js
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
 * **agLoginBanner** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/login-banner/login-banner-directive.js
-* **agMyConnections** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/my-connections/my-connections-directive.js
+* **agLoader** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/loader/loader-directive.js
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/notifications/manage-notifications.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/gateways/gateway-projects.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/app-builder/template/build-app.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/tutorials/tutorials-article-view/tutorials-article-index/tutorials-article-index.component.html
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
 * **agMyGroups** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/my-groups/my-groups-directive.js
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
 * **agNavigation** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/navigation/navigation-directive.js
-* **agOverflowText** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/overflow-text/overflow-text-directive.js
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+* **agMyConnections** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/my-connections/my-connections-directive.js
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+* **tagsInput** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/ng-tags-input/ng-tags-input.js
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
+* **tiTagItem** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/ng-tags-input/ng-tags-input.js
+* **autoComplete** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/ng-tags-input/ng-tags-input.js
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
+* **tiAutocompleteMatch** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/ng-tags-input/ng-tags-input.js
+* **tiTranscludeAppend** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/ng-tags-input/ng-tags-input.js
+* **tiAutosize** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/ng-tags-input/ng-tags-input.js
+* **tiBindAttrs** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/ng-tags-input/ng-tags-input.js
 * **agPagination** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/pagination/pagination-directive.js
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/igce-addedit.html
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
 * **agPaginationSolr** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/pagination/pagination-directive.js
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+* **agOverflowText** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/overflow-text/overflow-text-directive.js
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
 * **agPanel** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/panel/panel-directive.js
 * **agPdf** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/pdf/pdf-directive.js
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
 * **agPin** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/pin/pin-directive.js
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-* **agProjectList** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/project-list/project-list-directive.js
 * **agRelatedContent** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/related-content/related-content-directive.js
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-* **agResourcesBlock** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/resources-block/resources-block-directive.js
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/gateways/gateway-projects.html
+* **agProjectList** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/project-list/project-list-directive.js
 * **agRichText** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/rich-text/rich-text-directive.js
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
@@ -4477,16 +5684,17 @@ This is a display of the results from the file analysis done by ag_dependency.
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
 * **userMentionableLinkTo** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/rich-text/rich-text-directive.js
+* **agResourcesBlock** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/resources-block/resources-block-directive.js
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/gateways/gateway-projects.html
 * **agScrollTop** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/scroll-to-top/scroll-top-directive.js
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-* **agSearch** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/search/search-directive.js
 * **agSendInvite** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/send-invite/send-invite-directive.js
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
 * **agShare** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/share/share-directive.js
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/igce-addedit.html
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/igce/components/calc-search/calc-search.html
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
@@ -4494,93 +5702,96 @@ This is a display of the results from the file analysis done by ag_dependency.
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-* **agSmartSelect** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/smart-select/smart-select-directive.js
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
 * **agSort** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/sort/sort-directive.js
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/data-visualizer/directive/ag-type-ahead-form-select.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-* **agTags** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/tags/.tag-directive.js.swo
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/feeds/event-modal.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-* **agTags** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/tags/.tag-directive.js.swo
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/feeds/event-modal.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+* **agSearch** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/search/search-directive.js
+* **agSurvey** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/survey/survey-directive.js
 * **agTags** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/tags/tags-directive.js
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/feeds/event-modal.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
 * **agShouldFocus** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/tags/tags-directive.js
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
 * **globalSearch** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/tags/tags-directive.js
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/global-search.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+* **agSmartSelect** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/smart-select/smart-select-directive.js
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
 * **agTextEditor** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/text-editor/text-editor-directive.js
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/feeds/event-modal.html
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-* **agTopicsList** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/topics/topics-directive.js
+* **agTags** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/tags/.tag-directive.js.swo
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/feeds/event-modal.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+* **agTags** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/tags/.tag-directive.js.swo
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/feeds/event-modal.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/global-search/template/article-detail.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/arrte/arrte-document-details/arrte-document-details-modal.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/doclib/avail-warming.tpl.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
 * **isInputUrl** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/url-validator/url-validator-directive.js
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/json-app/item.html
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/solutions-finder/add-guides-link-form.html
-* **agUserProfile** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/user-profile/user-profile-directive.js
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/training_discussion_feeds/_events.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
 * **agUserProfileImg** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/user-profile-image/user-profile-image-directive.js
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/training_discussion_feeds/_events.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
-* **agUserRoleTypeahead** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/user-role-typeahead/user-role-typeahead-directive.js
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-* **agSurvey** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/survey/survey-directive.js
 * **agUserSearch** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/user-search/user-search-directive.js
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/promotional-search/template/promotional-search-add-item.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
-  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+* **agUserRoleTypeahead** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/user-role-typeahead/user-role-typeahead-directive.js
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
 * **agVoteUpDown** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/vote-up-down/vote-up-down-directive.js
   * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+* **agUserProfile** - ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/components/directives/user-profile/user-profile-directive.js
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/training_discussion_feeds/_events.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/communities-squared/template/activity-comments-content.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/project-center/acquistion-info/acquisition-info.html
+  * reference: ../ag/app/CAP-ACQUISITION_GATEWAY/hallways/ag-app/app/scripts/features/hallways/article-page.html
 
 ## Feature Directives
 
